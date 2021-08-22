@@ -1,5 +1,6 @@
 # ApplicationByJetpackCompose01
 ## Developed by mahdi razzaghi ghaleh
+#### **thanks to codingwirhmitch**
 
 this is my first application by jetpack compose which is about recipe food
 it has dark theme with beautiful shimmer animation,also ready to setup room db to cache data,it manages process dies and...
